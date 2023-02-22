@@ -1,4 +1,4 @@
-[![MaterHead](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)]
+[![MaterHead](https://github.com/daraaveasna/daraaveasna/blob/main/githubBanner.png)]
 <h1 align="center">Dara seeing you here 👋</h1>
 <h3 align="center">I am Dara, currently pursuing my bachelor's degree majoring in computer science from Institute of Technology of Cambodia. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:</h3>
 <img align="right" alt="Coding" width="400" src"https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif">
