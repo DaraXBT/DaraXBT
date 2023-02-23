@@ -1,5 +1,5 @@
 ![MaterHead](https://github.com/daraaveasna/daraaveasna/blob/main/githubBanner.gif)
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dara
+Hey! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ============================================================================================================================
 
 Web Developer and Designer
