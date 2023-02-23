@@ -10,7 +10,7 @@ I am Dara, currently pursuing my bachelor's degree majoring in computer science 
 * 🌍  I'm based in Phnom Penh, Cambodia
 * 🖥️  See my portfolio at [MyPortfolio](http://https://daraaveasna.wixsite.com/cv01)
 * ✉️  You can contact me at [daraa.veasna@gmail.com](mailto:daraa.veasna@gmail.com)
-* 🚀  I'm currently working on [Sleeping](http://https://tenor.com/view/hacker-hacker-man-hacking-hackers-hack-gif-23864910)
+* 🚀  I'm currently working on [Sleeping](http://media4.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif?cid=ecf05e47547zi84jqtaionz8hbwt03dubudigjk55mk3c7k0&rid=giphy.gif&ct=g)
 * 🧠  I'm learning everything Javascript
 * ⚡  Enjoy the little things, for one day you may look back and realize they were the big things.
 
