@@ -96,6 +96,6 @@ I am Dara, currently pursuing my bachelor's degree majoring in computer science 
   
 ## Support Me :trollface:
 
-<a href="https://www.buymeacoffee.com/daraveasna"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/daraveasna"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="168" /></a>
   
 </div>
