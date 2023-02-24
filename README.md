@@ -1,4 +1,3 @@
-![MaterHead](https://github.com/daraaveasna/daraaveasna/blob/main/githubBanner.gif)
 <div align="center">
   
 ![](https://github.com/daraaveasna/daraaveasna/blob/main/name.svg)
@@ -13,6 +12,7 @@ src="https://img.shields.io/twitter/follow/daraa_veasna?logo=twitter&style=for-t
 
 Hey! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ============================================================================================================================
+![MaterHead](https://github.com/daraaveasna/daraaveasna/blob/main/githubBanner.gif)
 
 I am Dara, currently pursuing my bachelor's degree majoring in computer science from Institute of Technology of Cambodia. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
