@@ -1,18 +1,23 @@
+![MaterHead](https://github.com/daraaveasna/daraaveasna/blob/main/githubBanner.gif)
+
+<h1 align="center">
+
+Hey! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
+</h1>
+
 <div align="center">
   
 ![](https://github.com/daraaveasna/daraaveasna/blob/main/name.svg)
 
-***:octocat: Web Developer and Designer***
-  
-<a href="https://www.twitter.com/daraa_veasna" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/daraa_veasna?logo=twitter&style=for-the-badge&color=0891b2&labelColor=181824"
-/></a>
-  
+***:octocat: Web Developer and Designer***   
 </div>
 
-Hey! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-============================================================================================================================
-![MaterHead](https://github.com/daraaveasna/daraaveasna/blob/main/githubBanner.gif)
+<div align="center">
+<a href="https://www.twitter.com/daraa_veasna" target="_blank" rel="noreferrer"><img 
+src="https://img.shields.io/twitter/follow/daraa_veasna?logo=twitter&style=for-the-badge&color=0891b2&labelColor=181824"
+/></a>
+</div>
+
 
 I am Dara, currently pursuing my bachelor's degree majoring in computer science from Institute of Technology of Cambodia. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
@@ -24,6 +29,13 @@ I am Dara, currently pursuing my bachelor's degree majoring in computer science 
 * 📌  Enjoy the little things, for one day you may look back and realize they were the big things.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daraaveasna&label=Profile%20views&color=0e75b6&style=flat" alt="daraaveasna" /> </p>
+
+<div align="center">
+  <h2> Now Playing 🎧 </h2>
+  
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/31tvtduqeget2gzkvvw6jqxdwsx4)
+  </div>
+<br/>
 
 ## Skills 🎨
 
