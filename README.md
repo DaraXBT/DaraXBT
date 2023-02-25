@@ -28,7 +28,7 @@ I am Dara, currently pursuing my bachelor's degree majoring in computer science 
 * 🧠  I'm learning everything Javascript
 * 📌  Enjoy the little things, for one day you may look back and realize they were the big things.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=daraaveasna&label=Profile%20views&color=0e75b6&style=flat" alt="daraaveasna" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=daraaveasna&label=Profile%20views&color=0e75b6&style=flat" alt="daraaveasna" /> </p>
 
 <div align="center">
   <h2> Now Playing 🎧 </h2>
@@ -91,7 +91,7 @@ I am Dara, currently pursuing my bachelor's degree majoring in computer science 
 ## Badges ♾️
 
   <h2 align="center">🔥 Stats 🔥</h2>
-<div align="jusity">
+<div align="center">
 
   
 <a href="http://www.github.com/daraaveasna"><img src="https://github-readme-stats.vercel.app/api?username=daraaveasna&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&show_icons=true" alt="daraaveasna's GitHub stats"/></a>
