@@ -1,10 +1,5 @@
 ![MaterHead](https://github.com/daraaveasna/daraaveasna/blob/main/githubBanner.gif)
 
-<h1 align="center">
-
-Hey! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
-</h1>
-
 <div align="center">
   
 ![](https://github.com/daraaveasna/daraaveasna/blob/main/name.svg)
@@ -17,9 +12,13 @@ Hey! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 src="https://img.shields.io/twitter/follow/daraa_veasna?logo=twitter&style=for-the-badge&color=0891b2&labelColor=181824"
 /></a>
 </div>
+<h4 align="right">
+<img  src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="80">
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</h4>
 
-
-I am Dara, currently pursuing my bachelor's degree majoring in computer science from Institute of Technology of Cambodia. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am Dara, a dedicated computer science student at the Institute of Technology of Cambodia, pursuing my engineering's degree. As a tech enthusiast and open-source advocate, I am passionate about exploring innovative and disruptive ideas. I am always eager to collaborate on projects and connect with like-minded individuals. Feel free to learn more about me and connect with me here. Let's create something amazing together!
 
 * :electron:   Phnom Penh, Cambodia
 * 🏆  See my portfolio at [MyPortfolio](http://daraaveasna.wixsite.com/cv01)
@@ -27,7 +26,6 @@ I am Dara, currently pursuing my bachelor's degree majoring in computer science 
 * 🚀  I'm currently working on [Sleeping](http://media4.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif?cid=ecf05e47547zi84jqtaionz8hbwt03dubudigjk55mk3c7k0&rid=giphy.gif&ct=g) 💤
 * 🧠  I'm learning everything Javascript
 * 📌  Enjoy the little things, for one day you may look back and realize they were the big things.
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=daraaveasna&label=Profile%20views&color=0e75b6&style=flat" alt="daraaveasna" /> </p>
 
 <div align="center">
@@ -37,7 +35,7 @@ I am Dara, currently pursuing my bachelor's degree majoring in computer science 
   </div>
 <br/>
 
-## Skills 🎨
+## Skills ♾️
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
@@ -88,28 +86,18 @@ I am Dara, currently pursuing my bachelor's degree majoring in computer science 
 
 <p align="left"> <a href="https://www.behance.com/daraveasna1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a> <a href="https://www.codepen.io/daraveasna" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://codesandbox.io/u/dara.veasna" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox.svg" width="32" height="32" /></a> <a href="https://www.dev.to/daraaveasna" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://discord.com/users/NICCOLO'#6450" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.dribbble.com/dara-veasna" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/dara.veasna.10" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/daraaveasna" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://https://hashnode.com/@niccolo.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/dara__veasna" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/dara-veasna/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.polywork.com/dara_veasna" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/polywork.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@daraa.veasna" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/21270347/dara-veasna" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/daraa_veasna" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/daraaveasna" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/daraaveasna" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
 
-## Badges ♾️
-
-  <h2 align="center">🔥 Stats 🔥</h2>
-<div justify-content: justify-around">
-
-  
-<a href="http://www.github.com/daraaveasna"><img src="https://github-readme-stats.vercel.app/api?username=daraaveasna&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&show_icons=true" alt="daraaveasna's GitHub stats" width="400px" hieght="173px"/></a>
-<a href="http://www.github.com/daraaveasna"><img src="https://github-readme-streak-stats.herokuapp.com/?user=daraaveasna&stroke=ffffff&background=181824&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="400px" hieght="173px"/></a>
-</div>
-<a href="http://www.github.com/daraaveasna"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=daraaveasna&bg_color=181824&color=ffffff&line=0891b2&point=ffffff&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <div align="center">
   
 ## Contributions :t-rex:
-  
-![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+
+![snake gif](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+<a href="https://www.buymeacoffee.com/daraveasna"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" width="168" /></a>
 </div>
 
 <div align="center">
   
-## Support Me :trollface:
+# Thanks ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
 
-<a href="https://www.buymeacoffee.com/daraveasna"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" width="168" /></a>
-  
-</div>
+
+
