@@ -115,9 +115,6 @@ I am Dara, a dedicated computer science student at the Institute of Technology o
 <a href="https://www.buymeacoffee.com/daraveasna"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" width="168" /></a>
 </div>
 
-<div align="center">
-  
-# Thanks ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
 
 
 
