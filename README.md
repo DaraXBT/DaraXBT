@@ -34,6 +34,7 @@ I am Dara, a dedicated computer science student at the Institute of Technology o
   
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/31tvtduqeget2gzkvvw6jqxdwsx4)
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <h2 align="center">
   <img src="https://media.giphy.com/media/ugtuUeiph9sTm/giphy.gif" width="220">
   
