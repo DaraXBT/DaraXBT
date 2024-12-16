@@ -8,7 +8,7 @@
 <div align="center">
   
   
-<a href="https://www.twitter.com/daraxbt" target="_blank" rel="noreferrer"><img 
+<a href="https://www.twitter.com/drv3v" target="_blank" rel="noreferrer"><img 
 src="https://img.shields.io/twitter/follow/daraxbt?logo=twitter&style=for-the-badge&color=0891b2&labelColor=181824"
 /></a>
 
