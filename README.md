@@ -9,7 +9,7 @@
   
   
 <a href="https://www.twitter.com/drv3v" target="_blank" rel="noreferrer"><img 
-src="https://img.shields.io/twitter/follow/daraxbt?logo=twitter&style=for-the-badge&color=0891b2&labelColor=181824"
+src="https://img.shields.io/twitter/follow/drv3v?logo=twitter&style=for-the-badge&color=0891b2&labelColor=181824"
 /></a>
 
 <img  src="https://media.giphy.com/media/CgCaB0B0zYp4kVhNPf/giphy.gif" width="123">
