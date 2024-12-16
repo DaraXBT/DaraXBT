@@ -86,10 +86,10 @@ I am Dara, a dedicated computer science student at the Institute of Technology o
 <p align=center>
   <div align=center>
     <a href="" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=daraaveasna&theme=react&border=61dafb&hide_border=true" alt="daraveasna" />
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=DaraXBT&theme=react&border=61dafb&hide_border=true" alt="daraveasna" />
     </a>
     <a href="" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=daraaveasna&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=DaraXBT&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
