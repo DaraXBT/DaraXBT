@@ -21,7 +21,7 @@ I'm Dara, a Cambodian computer science student and tech enthusiast passionate ab
 
 ![snake gif](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
-<a href="https://www.buymeacoffee.com/daraveasna"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="168" /></a><img src="https://media.giphy.com/media/ME8P6ce7Mn3gnRbird/giphy.gif" width="50px">
+<a href="https://www.buymeacoffee.com/daraveasna"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="168" /></a>
 </div>
 
 
